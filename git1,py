@@ -1,4 +1,1 @@
-num=int(input())
-if numm>0:
-    num%2==0
-    print("Positive even number")   
+hi
